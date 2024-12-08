@@ -14,3 +14,5 @@ The dataset contains information about students who are applying to graduate pro
 - **Undergraduate GPA: The student's undergraduate CGPA.**
 - **Research Experience: Whether the student has research experience.**
 - **The target variable is the Chance of Admission, a value between 0 and 1.**
+
+(regression)(deep learning)
